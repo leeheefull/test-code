@@ -1,5 +1,5 @@
 # 통합 테스트와 단위 테스트
-글에서 나오는 예제의 [구현 코드](https://github.com/leeheefull/java-spring-playground/tree/main/src/main/java/com/leeheefull/fortunecookie)와 [테스트 코드](https://github.com/leeheefull/java-spring-playground/tree/main/src/test/java/com/leeheefull/fortunecookie)는 해당 링크에 있습니다.
+글에서 나오는 예제의 [구현 코드](https://github.com/leeheefull/test-code/tree/main/src/main/java/com/leeheefull)와 [테스트 코드](https://github.com/leeheefull/test-code/tree/main/src/test/java/com/leeheefull)는 해당 링크에 있습니다.
 
 　
 
